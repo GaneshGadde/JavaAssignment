@@ -10,7 +10,7 @@ Quick start
 1.Clone this project
 2.Run in console 
 3.Check test.log and test.properties to verify results are as expected
-4. Please make sure that you have to pass "Logfile.txt" full path in Program Arguments ( for ex: "C:\\DFS Stuff\\Log\\Logfile.txt")
+4. Please make sure that you have to pass "Logfile.txt" full path in Program Arguments ( for ex: "C:\\Test\\Log\\Logfile.txt")
 
 Testing Instructions
 
